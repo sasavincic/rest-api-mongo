@@ -16,6 +16,6 @@ Steps to run:
 
 Endpoints to run:
 
-localhost:8080/api/v1/chargingstation (GET, POST, PUT, DELETE)
-localhost:8080/api/v1/location (GET, POST, PUT, DELETE)
-localhost:8080/api/v1/car (GET, POST, PUT, DELETE)
+- localhost:8080/api/v1/chargingstation (GET, POST, PUT, DELETE)
+- localhost:8080/api/v1/location (GET, POST, PUT, DELETE)
+- localhost:8080/api/v1/car (GET, POST, PUT, DELETE)
