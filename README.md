@@ -6,7 +6,7 @@ I created this project as an introduction to Go. It features basic CRUD function
 ## How to run:
 
 Prerequisites:
-1. Have go sdk installed
+1. Have `go` sdk installed
 
 Steps to run:
 1. Open terminal
